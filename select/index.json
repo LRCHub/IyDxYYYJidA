@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "フィードバックを鳴らして",
+  "base_artist": "ハンブレッダーズ",
+  "createdAt": "2026-02-11T20:00:04.426165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フィードバックを鳴らして",
+      "artist": "ハンブレッダーズ",
+      "has_synced": true,
+      "path": "select/01_フィードバックを鳴らして_ハンブレッダーズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フィードバックを鳴らして",
+      "artist": "Humbreaders",
+      "has_synced": false,
+      "path": "select/02_フィードバックを鳴らして_Humbreaders.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フィードバックを鳴らして",
+      "artist": "ハンブレッダーズ",
+      "has_synced": false,
+      "path": "select/pl_01_フィードバックを鳴らして_ハンブレッダーズ.txt"
+    }
+  ]
+}
